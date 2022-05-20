@@ -1,0 +1,1 @@
+System.register(["./index-legacy.4ce83f39.js"],(function(e){"use strict";var t;return{setters:[function(e){t=e.j}],execute:function(){e("default",(function(){return t("div",{className:"date-select",children:"DatePicker - should be red"})}))}}}));
